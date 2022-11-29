@@ -1,5 +1,5 @@
 # Big_event_double
-定義大事件日，根據事件日買入並進行加碼不加碼比較
+定義大事件日，根據事件日買入並進行加碼、不加碼績效比較。
 
 # 簡介
 網頁好讀版 : https://wellcomepage-chechih-portfolio.on.drv.tw/my_portfolio/大跌時加碼報酬.html 
